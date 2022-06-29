@@ -18,7 +18,7 @@ const Auth = () => {
     await auth
       .createUserWithEmailAndPassword(form.email, form.password)
       .then((user) => {
-        // console.log(user);
+        console.log("WORKS");
       })
       .catch((e) => console.error(e));
   };
@@ -29,7 +29,7 @@ const Auth = () => {
   };
 
   if (loading) {
-    return <Loader />
+    return <Loader />;
   }
 
   return (
