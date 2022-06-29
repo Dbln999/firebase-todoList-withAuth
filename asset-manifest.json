@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/firebase-todoList-withAuth/static/css/main.8df92e12.css",
+    "main.js": "/firebase-todoList-withAuth/static/js/main.24faac28.js",
+    "index.html": "/firebase-todoList-withAuth/index.html",
+    "main.8df92e12.css.map": "/firebase-todoList-withAuth/static/css/main.8df92e12.css.map",
+    "main.24faac28.js.map": "/firebase-todoList-withAuth/static/js/main.24faac28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8df92e12.css",
+    "static/js/main.24faac28.js"
+  ]
+}
