@@ -35,7 +35,7 @@ const Auth = () => {
   return (
     <>
       <Container
-        className="w-50 bg-lightGreen mt-5 p-3"
+        className="w-75 bg-lightGreen mt-5 p-3"
         style={{ paddingBottom: "1rem" }}
       >
         <Form>

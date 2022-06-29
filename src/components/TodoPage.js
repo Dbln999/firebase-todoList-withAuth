@@ -45,7 +45,7 @@ const TodoPage = () => {
   };
 
   return (
-    <Container className="my-5 w-50 bg-lightGreen todoContainer">
+    <Container className="my-5 w-75 bg-lightGreen todoContainer">
       <Row>
         <Col md="12" className="d-flex justify-content-center mx-1 my-4">
           <Form.Control
